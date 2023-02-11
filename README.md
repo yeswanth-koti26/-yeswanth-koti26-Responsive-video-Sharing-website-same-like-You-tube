@@ -4,4 +4,8 @@
  click on [link](http://127.0.0.1:5500/index.html) to view my website.
  
  
+ **Front view Of my Website**
+ 
+ 
+ ![Font view of my website](https://github.com/yeswanth-koti26/-yeswanth-koti26-Responsive-video-Sharing-website-same-like-You-tube/blob/master/images/front%20view%20of%20my%20website.png)
  
