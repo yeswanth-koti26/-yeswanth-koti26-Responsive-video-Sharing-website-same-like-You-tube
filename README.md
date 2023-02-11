@@ -9,3 +9,8 @@
  
  ![Font view of my website](https://github.com/yeswanth-koti26/-yeswanth-koti26-Responsive-video-Sharing-website-same-like-You-tube/blob/master/images/front%20view%20of%20my%20website.png)
  
+**It is responsive it works for samller devices also:**
+
+
+
+![](https://github.com/yeswanth-koti26/-yeswanth-koti26-Responsive-video-Sharing-website-same-like-You-tube/blob/master/images/smaller%20devices.png)
